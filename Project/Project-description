@@ -1,0 +1,18 @@
+Final Term Project Description
+If we can see our future, we will certainly change how to live our lives today. However, we haven't invented a time machine yet. So instead of traveling to the future, we can improve our ability to make predictions. With the skills we learned this semester in CS133, we can see the trends and patterns in large amounts of data. We also know how to train Machine Learning models to make predictions. In this final term project, your team (of 2 students) will be given several datasets to choose from, and your team will build, train, and test a machine learning model to make predictions. 
+Project Deliverables
+1. Create and answer at least 5 unique questions using different types of plots to help you understand the data. You can create additional categorical columns or reshape your data to help you understand the data.
+2. Create a test set and a training set using the original dataset. 
+3. Follow the steps that we use in our hands-ons to prepare the data and pipeline for training at least 3 ML models. Use any strategy that you see fit. Use N-fold cross-validation to evaluate the performance of each model.
+4. Use the appropriate performance metrics to evaluate your models. Select the best one for testing.
+5. Test your best ML model using the test set. Include a confusion matrix to show the performance of your best class ML model.
+6. In-class presentation (10 min long) in which you explain the following:
+how does the data visualization help you with choosing certain strategies in developing the ML training pipeline
+what strategy is used to create test/train data
+what ML models are chosen, and why are they suitable for this analysis
+the performance of all trained models using appropriate performance metrics and/or visualizations.
+how is the performance of the best ML model using the test set? 
+To wrap up, discuss the challenges you have encountered and/or any other thoughts about this project. 
+7. The presentation slides (in PDF format)
+8. All the Python code for Steps 1-5 should be contained in one Jupyter notebook. 
+Bonus: Create a web app for interactive data exploration and visualization for your project. 
